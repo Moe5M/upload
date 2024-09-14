@@ -1,0 +1,157 @@
+{
+    "_id": {
+        "$oid": "66cb6b3170ea45e48db918de"
+    },
+    "type": "series",
+    "title": "VTC",
+    "releaseYear": "2021",
+    "summary": "",
+    "seasons": [
+        {
+            "seasonNumber": "01",
+            "episodes": [
+                {
+                    "episodeNumber": "02",
+                    "downloadFiles": [
+                        {
+                            "duration": {
+                                "$numberInt": "1181"
+                            },
+                            "quality": "720x1706",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIBe2bLazD2isqUN4TEAwplJBFdzAT5AAK0AgAC6WiwRYBUgd-7-9WhNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "204079501"
+                            }
+                        },
+                        {
+                            "duration": {
+                                "$numberInt": "1181"
+                            },
+                            "quality": "720x1706",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIDA2bLbL98O9grnv7NJCDis4HPzgNSAAK0AgAC6WiwRYBUgd-7-9WhNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "204079501"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "episodeNumber": "05",
+                    "downloadFiles": [
+                        {
+                            "duration": {
+                                "$numberInt": "1418"
+                            },
+                            "quality": "720x1728",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIBfGbLazFg9SUaUDbxTTmsQTojLws4AAK-AgAC6WiwRfyc0OGahPzYNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "215422957"
+                            }
+                        },
+                        {
+                            "duration": {
+                                "$numberInt": "1418"
+                            },
+                            "quality": "720x1728",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIDBWbLbMCtAvyVn6CSP1QYrYRjnztnAAK-AgAC6WiwRfyc0OGahPzYNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "215422957"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "episodeNumber": "03",
+                    "downloadFiles": [
+                        {
+                            "duration": {
+                                "$numberInt": "917"
+                            },
+                            "quality": "720x1706",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIBfmbLazNrWomGtHAp-FGb9RYExYh3AAK9AgAC6WiwRYnO81UE8lgsNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "217605423"
+                            }
+                        },
+                        {
+                            "duration": {
+                                "$numberInt": "917"
+                            },
+                            "quality": "720x1706",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIDB2bLbMETLZJWFubFtzHRkcVnd0rkAAK9AgAC6WiwRYnO81UE8lgsNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "217605423"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "episodeNumber": "04",
+                    "downloadFiles": [
+                        {
+                            "duration": {
+                                "$numberInt": "812"
+                            },
+                            "quality": "720x1280",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIBgWbLazRSqSCBCNDD-iZmbL-onZGAAAK6AgAC6WiwRZa1xubFo0TTNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "94276633"
+                            }
+                        },
+                        {
+                            "duration": {
+                                "$numberInt": "812"
+                            },
+                            "quality": "720x1280",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIDCGbLbMOnounrF-CTzI2CeE4DVsPLAAK6AgAC6WiwRZa1xubFo0TTNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "94276633"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "episodeNumber": "01",
+                    "downloadFiles": [
+                        {
+                            "duration": {
+                                "$numberInt": "1303"
+                            },
+                            "quality": "720x1728",
+                            "more_details": "",
+                            "vid_file_id": "BAACAgEAAyEFAASDOhMEAAIBgmbLazXifBAV8Wq8FizFM7ecFjOFAAK1AgAC6WiwRX5VW-wCCQIBNQQ",
+                            "encoder": "",
+                            "fileSize": {
+                                "$numberInt": "235150355"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": {
+        "average": {
+            "$numberInt": "-1"
+        },
+        "votes": {
+            "$numberInt": "-1"
+        }
+    }
+}
