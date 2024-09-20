@@ -213,5 +213,180 @@
                 "$numberInt": "-1"
             }
         }
+    },
+    {
+        "_id": {
+            "$oid": "66cb6e6070ea45e48db91a0a"
+        },
+        "type": "movie",
+        "title": "Army of Thieves",
+        "releaseYear": "2021",
+        "summary": "",
+        "duration": {
+            "$numberInt": "7775"
+        },
+        "downloadFiles": [
+            {
+                "quality": "366x550",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAIDrWbLbl-TW6A_TdOdYgnyYZQSQJzVAALuCQACs5wQUJ81uQ2pNqWENQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "1148724470"
+                }
+            },
+            {
+                "quality": "366x550",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAIDr2bLbmDqh72f60ezoutAR4tXh_iCAAJiDgACUv4RUP0z1e80yxIkNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "734590827"
+                }
+            },
+            {
+                "quality": "366x550",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAIDsWbLbmFLYLs8QhFWSuOzWtmySS7QAAIYDAAC51wYUHxa-taSNcLYNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "454268750"
+                }
+            },
+            {
+                "quality": "366x550",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAIDs2bLbmI_VxxU4xBdf77sB6KhPVUEAAJWCgACBwkZUF0AAVmoBkY-7TUE",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "269975034"
+                }
+            },
+            {
+                "quality": "366x550",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAIDtWbLbmQem8_KmBJtR0gPzhpjXywQAAK4DAACJC8RUFa8YvCrD7ZXNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "173419221"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJEymbQYhsrg_cds_AUdaWXxrTHcVqDAAKpCgACKKfoU_g_kWoOskrLNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "1302291773"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJEzGbQYhxGBOt5gqeRnkpZbLy_9aguAAIqDAACISfpUzpakajrpsFFNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "732596153"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJEzmbQYh0jCMe__AXbrLqgSm2Xct2RAAI6CwACzMHpU4AR48ZWdJIGNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "468494079"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJE0GbQYh-hw91-S8rIbwc4RQYHxpiwAAKVCgAC17voU6ENYi2eNhdTNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "287199134"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJE0mbQYiGOqoLf_wNBnDCU0-IrW_QkAAKcCQACWfjpU-ONu9PTg0KWNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "189604595"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJPkmbS7hXdhfhthpsHozBtUJBEcs5kAAKcCQACWfjpU-ONu9PTg0KWNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "189604595"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJPlGbS7haKiEwExeNZ270N1Pj9cCV2AAKVCgAC17voU6ENYi2eNhdTNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "287199134"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJPlmbS7hfjQ4nA3vNlsIyWPzXQHQvIAAI6CwACzMHpU4AR48ZWdJIGNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "468494079"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJPmGbS7hhBdbevo6jIGD-QdCX1nr4CAAIqDAACISfpUzpakajrpsFFNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "732596153"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJPmmbS7hlMUU4bfZLBuyeW_QxC8Ur6AAKpCgACKKfoU_g_kWoOskrLNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "1302291773"
+                }
+            },
+            {
+                "quality": "383x681",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJPnGbS7hsb-kiDOHvhIu7AuBy77U-WAAKZEAACJfPpUzuduZouZTWiNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "1912004697"
+                }
+            },
+            {
+                "quality": "720x1280",
+                "more_details": "",
+                "vid_file_id": "BAACAgQAAyEFAASDOhMEAAJPnmbS7hxRegKQMQtAQ6AcxZK2jCjcAAJ5CQACT0DpU3qEddN2eCbUNQQ",
+                "encoder": "",
+                "fileSize": {
+                    "$numberInt": "14502421"
+                }
+            }
+        ],
+        "rating": {
+            "average": {
+                "$numberInt": "-1"
+            },
+            "votes": {
+                "$numberInt": "-1"
+            }
+        }
     }
 ]
