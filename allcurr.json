@@ -1,0 +1,126 @@
+{
+  "base": "IRR",
+  "last_updated": "2023-04-20T12:00:00Z", // Last update timestamp
+  "rates": {
+    "USD": {
+      "current_rate": 0.0000275, // Current exchange rate (1 IRR = 0.0000275 USD)
+      "fluctuations": {
+        "1D": { // 1 Day
+          "percentage_change": -1.79, // Percentage change
+          "rate_change": -0.0000005, // Absolute rate change
+          "previous_rate": 0.000028
+        },
+        "7D": { // 7 Days
+          "percentage_change": 2.22,
+          "rate_change": 0.0000006,
+          "previous_rate": 0.0000269
+        },
+        "1M": { // 1 Month
+          "percentage_change": -4.55,
+          "rate_change": -0.0000013,
+          "previous_rate": 0.0000288
+        },
+        "3M": { // 3 Months
+          "percentage_change": 7.81,
+          "rate_change": 0.0000021,
+          "previous_rate": 0.0000254
+        },
+        "1Y": { // 1 Year
+          "percentage_change": -12.10,
+          "rate_change": -0.0000038,
+          "previous_rate": 0.0000313
+        }
+      }
+    },
+    "EUR": {
+      "current_rate": 0.0000293, // Current exchange rate (1 IRR = 0.0000293 EUR)
+      "fluctuations": {
+        "1D": {
+          "percentage_change": -1.35,
+          "rate_change": -0.0000004,
+          "previous_rate": 0.0000297
+        },
+        "7D": {
+          "percentage_change": 1.55,
+          "rate_change": 0.0000005,
+          "previous_rate": 0.0000288
+        },
+        "1M": {
+          "percentage_change": -3.19,
+          "rate_change": -0.000001,
+          "previous_rate": 0.0000303
+        },
+        "3M": {
+          "percentage_change": 6.45,
+          "rate_change": 0.0000018,
+          "previous_rate": 0.0000275
+        },
+        "1Y": {
+          "percentage_change": -9.50,
+          "rate_change": -0.0000034,
+          "previous_rate": 0.0000327
+        }
+      }
+    },
+    "GBP": {
+      "current_rate": 0.0000365, // Current exchange rate (1 IRR = 0.0000365 GBP)
+      "fluctuations": {
+        "1D": {
+          "percentage_change": -0.82,
+          "rate_change": -0.0000003,
+          "previous_rate": 0.0000368
+        },
+        "7D": {
+          "percentage_change": 0.28,
+          "rate_change": 0.0000001,
+          "previous_rate": 0.0000364
+        },
+        "1M": {
+          "percentage_change": -2.67,
+          "rate_change": -0.000001,
+          "previous_rate": 0.0000375
+        },
+        "3M": {
+          "percentage_change": 4.29,
+          "rate_change": 0.0000015,
+          "previous_rate": 0.000035
+        },
+        "1Y": {
+          "percentage_change": -6.41,
+          "rate_change": -0.0000026,
+          "previous_rate": 0.0000391
+        }
+      }
+    },
+    "JPY": {
+      "current_rate": 3.19, // Current exchange rate (1 IRR = 3.19 JPY)
+      "fluctuations": {
+        "1D": {
+          "percentage_change": -0.31,
+          "rate_change": -0.01,
+          "previous_rate": 3.20
+        },
+        "7D": {
+          "percentage_change": 1.27,
+          "rate_change": 0.04,
+          "previous_rate": 3.15
+        },
+        "1M": {
+          "percentage_change": -2.14,
+          "rate_change": -0.07,
+          "previous_rate": 3.26
+        },
+        "3M": {
+          "percentage_change": 6.00,
+          "rate_change": 0.18,
+          "previous_rate": 3.01
+        },
+        "1Y": {
+          "percentage_change": 11.20,
+          "rate_change": 0.33,
+          "previous_rate": 2.86
+        }
+      }
+    }
+  }
+}
